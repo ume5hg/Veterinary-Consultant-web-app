@@ -1,4 +1,4 @@
-# Livestock Health - Veterinary Management System
+Veterinary consultant web app
 
 A comprehensive web application that connects farmers with veterinarians for livestock health management and consultation services.
 
@@ -30,27 +30,6 @@ A comprehensive web application that connects farmers with veterinarians for liv
 
 - Node.js (v18.x recommended)
 - npm or yarn package manager
-
-## 🚀 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd livestock-health
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173`
 
 ## 📱 Usage Guide
 
@@ -137,17 +116,6 @@ The project uses Tailwind CSS v4 with the following configuration:
 - `/book-vet/:animalId` - Vet booking
 - `/vet/profile` - Vet profile management
 
-## 🚀 Deployment
-
-### Build for Production
-```bash
-npm run build
-```
-
-### Preview Production Build
-```bash
-npm run preview
-```
 
 ## 🔮 Future Enhancements
 
@@ -181,17 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Developer**: [Your Name]
-- **Project**: Livestock Health Management System
+- **Developer**: [Umesh Gautam]
+- **Project**: Veterinary consultant web app
 - **Version**: 1.0.0
 
-## 📞 Support
-
-For support and questions:
-- Email: support@livestockhealth.com
-- Documentation: [Project Wiki]
-- Issues: [GitHub Issues]
-
----
-
-**Note**: This is a demo application with mock data. For production use, integrate with Firebase or your preferred backend service.
